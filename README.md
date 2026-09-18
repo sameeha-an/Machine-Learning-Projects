@@ -12,15 +12,12 @@ A machine learning project analyzing advertising expenditure and its relationshi
 
 Type: Regression / Predictive Modeling
 
-⸻
-
 2. 💳 Credit Card Customer Data Analysis
 
 Analysis of credit card customer data to identify patterns and insights in customer behavior.
 
 Type: Data Analysis / Machine Learning
 
-⸻
 
 3. ❤️ Heart Failure Prediction
 
@@ -28,7 +25,6 @@ A machine learning project for predicting heart failure based on patient-related
 
 Type: Classification
 
-⸻
 
 4. 🎓 Graduate Admission Prediction
 
@@ -36,7 +32,6 @@ A predictive modeling project for estimating graduate admission outcomes based o
 
 Type: Regression
 
-⸻
 
 5. 🏠 Housing Price Prediction — USA
 
@@ -44,7 +39,6 @@ A machine learning project focused on predicting housing prices using property-r
 
 Type: Regression
 
-⸻
 
 6. 👥 Mall Customer Segmentation
 
@@ -53,7 +47,6 @@ An unsupervised machine learning project that groups customers into different se
 Type: Clustering
 Algorithm: K-Means Clustering
 
-⸻
 
 7. 📱 Mobile Price Classification
 
@@ -61,7 +54,6 @@ A classification project that predicts the price category of mobile phones based
 
 Type: Classification
 
-⸻
 
 8. 🪟 Glass Classification
 
@@ -69,7 +61,7 @@ A machine learning classification project for identifying different types of gla
 
 Type: Classification
 
-⸻
+
 
 9. 🩺 Diabetes Prediction
 
@@ -77,7 +69,6 @@ A machine learning project for predicting diabetes based on patient health-relat
 
 Type: Classification
 
-⸻
 
 10. 🏦 Bank Marketing Prediction
 
@@ -85,7 +76,6 @@ A machine learning project analyzing customer information and predicting respons
 
 Type: Classification
 
-⸻
 
 11. 💰 Payment Fraud Detection
 
@@ -93,7 +83,6 @@ A machine learning project focused on identifying potentially fraudulent payment
 
 Type: Classification / Fraud Detection
 
-⸻
 
 12. ✈️ Airline Passenger Satisfaction
 
@@ -101,7 +90,6 @@ A machine learning project analyzing airline passenger information and predictin
 
 Type: Classification
 
-⸻
 
 13. 🪙 Gold Price Prediction
 
@@ -109,7 +97,6 @@ A predictive machine learning project analyzing historical gold-price-related da
 
 Type: Regression / Time-Series Analysis
 
-⸻
 
 14. 📺 TV Market Analysis
 
@@ -117,7 +104,6 @@ A data analysis and machine learning project involving television market data an
 
 Type: Data Analysis / Predictive Modeling
 
-⸻
 
 15. 🚢 Titanic Survival Prediction
 
@@ -125,7 +111,6 @@ A classic machine learning classification project predicting passenger survival 
 
 Type: Classification
 
-⸻
 
 16. 🚗 Car Data Analysis
 
@@ -133,7 +118,6 @@ A machine learning/data analysis project exploring automobile-related data and p
 
 Type: Data Analysis / Predictive Modeling
 
-⸻
 
 17. 💧 Water Potability Prediction
 
@@ -142,7 +126,6 @@ A machine learning project predicting whether water is suitable for human consum
 Type: Classification
 Algorithm: Support Vector Machine (SVM)
 
-⸻
 
 🧠 Machine Learning Concepts
 
@@ -208,6 +191,5 @@ I am interested in Machine Learning, Artificial Intelligence, and Data Science a
 GitHub:
 https://github.com/sameeha-an
 
-⸻
 
 ⭐ Thank you for visiting my Machine Learning Projects repository!
